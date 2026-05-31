@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersonnect",
+        "uuid": 471394,
+        "checksum": "zzgxh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
